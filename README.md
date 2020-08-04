@@ -3,7 +3,7 @@ A project demonstrating the use of data science and machine learning models to m
 
 1 of the 4 projects assigned to the participants of the VS2DS March 2020 program organized by Pivigo Ltd, UK. Client is Electic Power Research Institute, US (EPRI).
 
-Team: Chris Lovejoy, Andrea Grafmueller, Chirag Garg, Theodore Hermann
+Team: Theodore Hermann, Chris Lovejoy, Andrea Grafmueller, Chirag Garg
 
 ## Table of contents
 * [General info](#general-info)
@@ -14,7 +14,7 @@ Team: Chris Lovejoy, Andrea Grafmueller, Chirag Garg, Theodore Hermann
 ## General info
 ### Problem statement
 
-Heat exchanger tubes are commonly inspected with eddy current (EC) techniques. While detection of defects is not a challenge, characterization (that is, determining the depth of wall loss) is done based on a single parameter (amplitude or phase); this mono-parametric approach lacks accuracy and leads to tubes being unnecessarily removed from service. The main defect of interest here is microbiologically-influenced corrosion (MIC). Since this is not reproducible in manufactured tubes, we will start with inner diameter (ID) pits.
+Heat exchanger tubes are commonly inspected with eddy current (EC) techniques. While detection of defects is not a challenge, characterization (that is, determining the depth of wall loss) is done based on a single parameter (amplitude or phase); this mono-parametric approach lacks accuracy and leads to tubes being unnecessarily removed from service. The main defect of interest here is microbiologically influenced corrosion (MIC). Since this is not reproducible in manufactured tubes, we will start with inner diameter (ID) pits.
 
 ### Objectives
 
